@@ -1,12 +1,12 @@
 {
-    "version": "0.5.4",
+    "version": "0.5.5",
     "description": "Offline-first vector database in one file, with citations you can verify",
     "homepage": "https://urna.dev",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hoffresearch/urna/releases/download/v0.5.4/urna-x86_64-pc-windows-msvc.zip",
-            "hash": "f0622e3de926a2c9176f07c8fe23afddb2cb48ad83ce140d69eefee0321cd94a"
+            "url": "https://github.com/hoffresearch/urna/releases/download/v0.5.5/urna-x86_64-pc-windows-msvc.zip",
+            "hash": "8b24f2252b60239727c9d1ce49d5507448fe23f63b6b7fc3bba016f4393c925a"
         }
     },
     "bin": "urna.exe",
